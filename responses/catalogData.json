@@ -7,6 +7,11 @@
   {
     "id_product": 456,
     "title": "Ноутбук APPLE MacBook Pro",
-    "price": 173990
+    "price": 174000
+  }
+  {
+  "id_product": 456,
+    "title": "() => console.log(174000)",
+    "price": 0
   }
 ]
